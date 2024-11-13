@@ -1,11 +1,11 @@
 
 # False Rape Analysis India
 
-Data Analysis project on **False Rape Cases in India**, with aim to estimate percentage of false cases from 2016-2022
+Data Analysis project on **False Rape Cases in India**, with aim to estimate percentage of false cases and its trend from 2016 to 2022
 
 ## Data Source
 
-**NCRB (National Crime Records Bureau) "Crime in India" reports (2016-2022)**  
+**NCRB (National Crime Records Bureau) "Crime in India" reports 2016 - 2022**  
 **Volume 1 - Chapter 3A (Crimes Against Women - All India)**.  
 
 **Tables:**  
@@ -16,7 +16,7 @@ Link to reports: [NCRB Crime in India Year-wise Reports](https://ncrb.gov.in/cri
 
 ## Methodology of Analysis
 
-#### Which categories are considered fake?
+### Which categories are considered fake?  
 
 **Final Report False** - Filed after confirming bogus report  
   
@@ -24,16 +24,23 @@ Link to reports: [NCRB Crime in India Year-wise Reports](https://ncrb.gov.in/cri
   
 Both final reports are filed by police with approval from court.  
 
-#### Faulty convictions and Miscategorization
+  
+### Faulty convictions and Miscategorization  
+
 - Faulty conviction data wasn't available in official sources
 - Faulty convictions are rare incidents, similar to incidences of miscategorization on part of police
 - Both rare incidences nullify the effect of each other on the estimate
 
 Thus the numbers in *Mistake of Fact or of Law or Civil Dispute* and *Convicted* are left as they are.
 
-##### FAQs
+### FAQs  
+  
+1. **If false case get resolved quick, wouldn't they accumulate more than convicted ones?**
+   The genuinity of the case has no effect on how quick it reaches resolution, or on whether it results in _acquiittal due to lack of evidence_ or _a solid conclusion (fake or true)_.
+   
+2. 
 
-
+  
 ## Files
 
 - **Fake_Rape_DataVis.ipynb**: Jupyter notebook containing visualizations and exploratory data analysis of related data.
