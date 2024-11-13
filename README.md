@@ -1,31 +1,35 @@
 
 # False Rape Analysis India
 
-Data analysis project focused on **false rape cases in India**, estimate of false cases from 2016-2022
+Data Analysis project on **False Rape Cases in India**, with aim to estimate percentage of false cases from 2016-2022
 
 ## Data Source
 
-**NCRB "Crime in India" reports (2016-2022)**
-**Volume 1 - Chapter 3A (Crimes Against Women - All India)**.
+**NCRB "Crime in India" reports (2016-2022)**  
+**Volume 1 - Chapter 3A (Crimes Against Women - All India)**.  
 
-**Tables:**
+**Tables:**  
 - Police Disposal
 - Court Disposal
 
-Link to reports: [NCRB Crime in India Year-wise Reports](https://ncrb.gov.in/crime-in-india-year-wise.html?year=2022).
+Link to reports: [NCRB Crime in India Year-wise Reports](https://ncrb.gov.in/crime-in-india-year-wise.html?year=2022).  
 
 ## Methodology of Analysis
 
-##### Which categories are considered fake?
-**Final Report False** - Filed after confirming bogus report, by police with approval from court.  
-**Mistake of Fact or of Law or Civil Dispute** - Filed after confirming exaggeration or misinterpretation of incident by complainant, or a false allegation filed over civil dispute.
+#### Which categories are considered fake?
 
-##### Faulty convictions and False categorization
+**Final Report False** - Filed after confirming bogus report  
+  
+**Mistake of Fact or of Law or Civil Dispute** - Filed after confirming exaggeration or misinterpretation of incident by complainant, or a false allegation filed over civil dispute.  
+  
+Both final reports are filed by police with approval from court.  
+
+#### Faulty convictions and Miscategorization
 - Faulty conviction data wasn't available in official sources
-- Faulty convictions are rare incidents, similar to incidences of false categorization on part of police
+- Faulty convictions are rare incidents, similar to incidences of miscategorization on part of police
 - Both rare incidences nullify the effect of each other on the estimate
 
-Thus the numbers in *Mistake of Fact or of Law or Civil Dispute* and *Convicted* are left as it is.
+Thus the numbers in *Mistake of Fact or of Law or Civil Dispute* and *Convicted* are left as they are.
 
 ##### FAQs
 
