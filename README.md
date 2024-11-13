@@ -17,7 +17,7 @@ Link to reports: [NCRB Crime in India Year-wise Reports](https://ncrb.gov.in/cri
 ## Methodology of Analysis
 
 ##### Which categories are considered fake?
-**Final Report False** - Filed after confirming bogus report, by police with approval from court.
+**Final Report False** - Filed after confirming bogus report, by police with approval from court.  
 **Mistake of Fact or of Law or Civil Dispute** - Filed after confirming exaggeration or misinterpretation of incident by complainant, or a false allegation filed over civil dispute.
 
 ##### Faulty convictions and False categorization
