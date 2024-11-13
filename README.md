@@ -1,7 +1,13 @@
 
 # False Rape Analysis India
 
-This repository contains a data analysis project focused on false rape cases in India, using data sourced exclusively from the **NCRB (National Crime Records Bureau) "Crime in India" reports (2016-2022)**, specifically **Volume 1 - Chapter 3A (Crimes Against Women - All India)**.
+This repository contains a data analysis project focused on false rape cases in India, using data sourced exclusively from the **NCRB "Crime in India" reports (2016-2022)**, specifically **Volume 1 - Chapter 3A (Crimes Against Women - All India)**.
+
+## Data Source
+
+The analysis is based on data from the NCRB (National Crime Records Bureau) 'Crime in India' reports, covering the years 2016 to 2022. The data provides insight into reported cases of false rape allegations, helping to identify trends and patterns over recent years.
+
+For more information and access to the reports, visit the [NCRB Crime in India Year-wise Reports](https://ncrb.gov.in/crime-in-india-year-wise.html?year=2022).
 
 ## Files
 
@@ -11,7 +17,7 @@ This repository contains a data analysis project focused on false rape cases in 
 - **requirements.txt**: Lists the Python dependencies needed to run the analysis.
 
 ## Installation
-
+false
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/narendran-1999/false-rape-analysis-india.git
@@ -30,13 +36,6 @@ This repository contains a data analysis project focused on false rape cases in 
 ```bash
 python datavis-rape.py
 ```
-
-## Data Source
-
-The analysis is based on data from the NCRB Crime in India reports, covering the years 2016 to 2022. The data provides insight into reported cases of false rape allegations, helping to identify trends and patterns over recent years.
-
-For more information and access to the reports, visit the [NCRB Crime in India Year-wise Reports](https://ncrb.gov.in/crime-in-india-year-wise.html?year=2022).
-
 
 ## License
 
