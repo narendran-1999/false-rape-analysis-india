@@ -18,16 +18,15 @@ Link to reports: [NCRB Crime in India Year-wise Reports](https://ncrb.gov.in/cri
 
 ### Which categories are considered fake?  
 
-**Final Report False** - Filed after confirming bogus report  
+- **Final Report False** - Filed after confirming bogus report  
   
-**Mistake of Fact or of Law or Civil Dispute** - Filed after confirming exaggeration or misinterpretation of incident by complainant, or a false allegation filed over civil dispute.  
+- **Mistake of Fact or of Law or Civil Dispute** - Filed after confirming exaggeration or misinterpretation of incident by complainant, or a false allegation filed over civil dispute.  
   
 Both final reports are filed by police with approval from court.  
-
+  
   
 ### Faulty convictions and Miscategorization  
-
-- Faulty conviction data wasn't available in official sources
+  
 - Faulty convictions are rare incidents, similar to incidences of miscategorization on part of police
 - Both rare incidences nullify the effect of each other on the estimate
 
@@ -35,10 +34,14 @@ Thus the numbers in *Mistake of Fact or of Law or Civil Dispute* and *Convicted*
 
 ### FAQs  
   
-1. **If false case get resolved quick, wouldn't they accumulate more than convicted ones?**
-   The genuinity of the case has no effect on how quick it reaches resolution, or on whether it results in _acquiittal due to lack of evidence_ or _a solid conclusion (fake or true)_.
+1. **If false case get resolved quick, wouldn't they accumulate more than convicted ones?**  
+   The genuinity of the case has no effect on how quick it reaches resolution, or on whether it results in _acquiittal due to lack of evidence_ or _a solid conclusion (fake or true)_. Cases get resolved quick due to better legal assistance and more experienced advocates, which would take larger resources. (Look up articles on individual false cases to know more about duration)
    
-2. 
+2. **Why are only 3 categories taken for estimate?**
+   Other categories in disposals (withrawals, aquittals due to insufficient evidence, etc) do not reach a solid conclusion. Thus, they're not taken for estimation.
+   
+3. **Why are only 3 categories taken for estimate?**
+   Other categories in disposals (withrawals, aquittals due to insufficient evidence, etc) do not reach a solid conclusion. Thus, they're not taken for estimation.
 
   
 ## Files
