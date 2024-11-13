@@ -5,7 +5,7 @@ Data Analysis project on **False Rape Cases in India**, with aim to estimate per
 
 ## Data Source
 
-**NCRB "Crime in India" reports (2016-2022)**  
+**NCRB (National Crime Records Bureau) "Crime in India" reports (2016-2022)**  
 **Volume 1 - Chapter 3A (Crimes Against Women - All India)**.  
 
 **Tables:**  
