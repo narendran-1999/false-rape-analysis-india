@@ -35,8 +35,8 @@ Thus the numbers in *Mistake of Fact or of Law or Civil Dispute* and *Convicted*
   
 ### Accuracy of Estimation  
   
-Size of sample set (with 3 categories of reliable conclusions) -> xx  
-Range of reported case numbers (2016-22) -> xx  
+Range of sample set size (with 3 categories of reliable conclusions) from 2016 to 2022 -> xx  
+Range of reported case numbers from 2016 to 2022 -> xx  
 
 xx  
   
