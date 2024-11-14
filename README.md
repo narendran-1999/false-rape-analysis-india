@@ -52,7 +52,9 @@ Thus the numbers in *Mistake of Fact or of Law or Civil Dispute* and *Convicted*
 - **rape.csv**: Dataset in CSV format containing extracted data on false rape cases.
 - **requirements.txt**: Lists the Python dependencies needed to run the analysis.
 
-## Installation
+## Repository Usage
+
+### Installation
 
 1. **Clone the repository**:
    ```bash
@@ -64,7 +66,7 @@ Thus the numbers in *Mistake of Fact or of Law or Civil Dispute* and *Convicted*
    pip install -r requirements.txt
    ```
 
-## Usage
+### Usage
 
 - **Jupyter Notebook**: Open `Fake_Rape_DataVis.ipynb` in a Jupyter environment to explore the data and visualize trends.
 - **Python Script**: Run `datavis-rape.py` to perform analysis and generate visualizations in a script-based environment.
