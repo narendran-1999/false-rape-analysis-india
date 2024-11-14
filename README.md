@@ -37,7 +37,7 @@ Thus the numbers in *Mistake of Fact or of Law or Civil Dispute* and *Convicted*
 1. **If false case get resolved quick, wouldn't they accumulate more than convicted ones?**  
    The genuinity of the case has no effect on how quick it reaches resolution.
      
-   2 Strongest factors that quicken case conclusion:
+   **Two strongest factors** that quicken case conclusion:
    - Reliable evidence
    - Strength of legal defense or prosecution, which requires more resources
    
