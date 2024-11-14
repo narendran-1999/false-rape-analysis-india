@@ -30,8 +30,17 @@ Both final reports are filed by police with approval from court.
 - Faulty convictions are rare incidents, similar to incidences of miscategorization on part of police
 - Both rare incidences nullify the effect of each other on the estimate
 
-Thus the numbers in *Mistake of Fact or of Law or Civil Dispute* and *Convicted* are left as they are.
+Thus the numbers in *Mistake of Fact or of Law or Civil Dispute* and *Convicted* are left as they are.  
+  
+  
+### Accuracy of Estimation  
+  
+Size of sample set (with 3 categories of reliable conclusions) -> xx  
+Range of reported case numbers (2016-22) -> xx  
 
+xx  
+  
+  
 ### FAQs  
   
 1. **If false case get resolved quick, wouldn't they accumulate more than convicted ones?**  
