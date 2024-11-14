@@ -35,11 +35,13 @@ Thus the numbers in *Mistake of Fact or of Law or Civil Dispute* and *Convicted*
 ### FAQs  
   
 1. **If false case get resolved quick, wouldn't they accumulate more than convicted ones?**  
-   The genuinity of the case has no effect on how quick it reaches resolution, or on whether it results in _acquiittal due to lack of evidence_ or _a solid conclusion (fake or true)_.  
-   Cases get resolved quick due to better legal assistance and more experienced advocates, which would take larger resources.  
-   (Look up articles on individual false cases to know more about duration)
+   The genuinity of the case has no effect on how quick it reaches resolution.
+     
+   2 Strongest factors that quicken case conclusion:
+   - Reliable evidence
+   - Strength of legal defense or prosecution, which requires more resources
    
-2. **Why are only 3 categories taken for estimate?**  
+3. **Why are only 3 categories taken for estimate?**  
    Other categories in disposals (withrawals, aquittals due to insufficient evidence, etc) do not reach a solid conclusion. Thus, they're not taken for estimation.
 
   
