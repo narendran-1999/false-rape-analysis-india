@@ -22,15 +22,8 @@ Link to reports: [NCRB Crime in India Year-wise Reports](https://ncrb.gov.in/cri
   
 - **Mistake of Fact or of Law or Civil Dispute** - Filed after confirming exaggeration or misinterpretation of incident, or a false allegation filed over civil dispute.  
   
-Both final reports are filed by police with approval from court.  
-  
-  
-### Faulty convictions and Miscategorization  
-  
-- Faulty convictions are rare incidents, similar to incidences of miscategorization on part of police
-- Both rare incidences nullify the effect of each other on the estimate
-
-Thus the numbers in *Mistake of Fact or of Law or Civil Dispute* and *Convicted* are left as they are.  
+Final reports of any category are filed by police with approval from court.  
+For more information about final reports, refer sections of **CrPC (Criminal Procedure Code)** related to case disposal. 
   
   
 ### Accuracy of Estimation  
