@@ -26,14 +26,6 @@ Final reports of any category are filed by police with approval from court.
 For more information about final reports, refer sections of **CrPC (Criminal Procedure Code)** related to case disposal. 
   
   
-### Accuracy of Estimation  
-  
-Range of sample set size (with 3 categories of reliable conclusions) from 2016 to 2022 -> xx  
-Range of reported case numbers from 2016 to 2022 -> xx  
-
-xx  
-  
-  
 ### FAQs  
   
 1. **If false case get resolved quick, wouldn't they accumulate more than convicted ones?**  
